@@ -6,7 +6,8 @@ This project demonstrates the creation and configuration of a custom AWS Virtual
 
 ## Architecture
 
-![Architecture](architecture/vpc-architecture.png)
+<img width="175" height="292" alt="vpc-architecture" src="https://github.com/user-attachments/assets/3371f95c-f52f-46e0-802f-a6fa0a0cac0a" />
+
 
 ## Services Used
 
